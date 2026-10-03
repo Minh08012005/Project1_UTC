@@ -1,9 +1,4 @@
-# BÁO CÁO RÀ SOÁT LOGIC HỆ THỐNG & ĐỀ XUẤT GIẢI PHÁP
-> **Dự án:** Project 1 - Hệ thống Quản lý Khám Chữa Bệnh Trực tuyến & Tại quầy  
-> **Giai đoạn hiện tại:** Bước 5 (Đặc tả Use Case) ➔ Chuẩn bị Bước 6 (Review đặc tả) & Bước 7 (Mockup Figma)  
-> **Tác giả:** Thành viên phân tích nghiệp vụ / Thiết kế hệ thống
 
----
 
 ## I. TẠI SAO PHẢI CHỈNH SỬA LOGIC TRƯỚC KHI VẼ MOCKUP FIGMA?
 
